@@ -15,7 +15,7 @@ A very basic react application which lets users add expenses and keep track of t
 - Passing data via props
 - Organising component files
 - Understanding useState() and working with mutliple states
-- Handle form subbmission
+- Handle form submission
 
 
 
